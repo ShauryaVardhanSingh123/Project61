@@ -1,0 +1,45 @@
+img{
+width: 450px;
+margin-bottom:325px;
+}
+body{
+text-align:center;
+}
+p{
+font-size:20px;
+text-align:center;
+}
+#food{
+background:green;
+text-align:center;
+}
+.menu{
+position:fixed;
+background:white;
+width:100%;
+margin-top:0px;
+    top:0px;
+    z-index:10;
+}
+.links{
+float:right;
+color:#fff;
+padding-top:5px;
+padding-right:150px;
+padding-left:200px;
+padding-bottom:5px;
+font-family:fantasy;
+font-size:20px;
+}
+#fruits{
+background-color:aqua;
+}
+#hobby{
+background-color:skyblue;
+}
+#petanimal{
+background-color:yellow;
+}
+#sega{
+font-size:200px
+}
